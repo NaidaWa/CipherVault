@@ -1,2 +1,1 @@
-# CipherVault
-A secure and easy-to-use password manager with end-to-end encryption.
+# CipherVault\n\nCipherVault is a user-friendly password manager that prioritizes security through end-to-end encryption. It allows users to securely store and manage their passwords, ensuring that sensitive information remains protected from unauthorized access.\n\n## Features\n- AES-256 encryption for data security\n- Cross-platform compatibility (Windows, macOS, Linux)\n- Intuitive user interface for seamless password management\n\n## Installation\nFollow these steps to install and set up CipherVault on your device...
